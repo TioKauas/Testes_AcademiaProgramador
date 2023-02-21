@@ -9,3 +9,14 @@ C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes AP\Teste 1\Teste 1\bin\Debug\Tes
 C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes AP\Teste 1\Teste 1\obj\Debug\Teste 1.exe
 C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes AP\Teste 1\Teste 1\obj\Debug\Teste 1.pdb
 C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes AP\Teste 1\Teste 1\obj\Debug\Teste_1.Teste1.resources
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\bin\Debug\Teste 1.exe.config
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\bin\Debug\Teste 1.exe
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\bin\Debug\Teste 1.pdb
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\obj\Debug\Teste 1.csproj.AssemblyReference.cache
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\obj\Debug\Teste 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\obj\Debug\Teste_1.Teste1.resources
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\obj\Debug\Teste_1.Properties.Resources.resources
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\obj\Debug\Teste 1.csproj.GenerateResource.cache
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\obj\Debug\Teste 1.csproj.CoreCompileInputs.cache
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\obj\Debug\Teste 1.exe
+C:\Users\ramos\OneDrive\Documentos\MeuPC\Testes_AcademiaProgramador\Teste 1\Teste 1\obj\Debug\Teste 1.pdb

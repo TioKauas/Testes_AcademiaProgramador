@@ -58,7 +58,7 @@ namespace Teste_1
                         lblDescricao.Text = "Dois lados iguais e os ângulos opostos.";
                         lblDescricao.Location = new Point(180, 194);
                         lblDescricao.Font = new Font("MicrosoftSansSerift", 7, FontStyle.Bold);
-                        MessageBox.Show("CU");
+                        MessageBox.Show("AAAAAAAAAAAAAAAAAAAAAAA");
                     }
                     else if (Esq == Inf && Dir == Inf && Esq == Dir)
                     {
