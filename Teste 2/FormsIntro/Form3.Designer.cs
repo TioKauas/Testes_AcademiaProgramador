@@ -1,4 +1,4 @@
-﻿namespace FormsIntro
+﻿namespace Teste2
 {
     partial class Form3
     {
@@ -205,7 +205,7 @@
             this.Controls.Add(this.lblProtocolo);
             this.Name = "Form3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form3";
+            this.Text = "Cadastro, edição e busca de chamados";
             this.ResumeLayout(false);
             this.PerformLayout();
 

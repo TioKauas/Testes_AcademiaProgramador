@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 
-namespace FormsIntro
+namespace Teste2
 {
     public partial class Form1 : Form
     {

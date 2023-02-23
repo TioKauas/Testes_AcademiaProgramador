@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FormsIntro.Properties {
+namespace Teste2.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -20,6 +20,65 @@ namespace FormsIntro.Properties {
         public static Settings Default {
             get {
                 return defaultInstance;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Equipamento {
+            get {
+                return ((string)(this["Equipamento"]));
+            }
+            set {
+                this["Equipamento"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string precoAquisicao {
+            get {
+                return ((string)(this["precoAquisicao"]));
+            }
+            set {
+                this["precoAquisicao"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string numeroSerie {
+            get {
+                return ((string)(this["numeroSerie"]));
+            }
+            set {
+                this["numeroSerie"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string Fabricante {
+            get {
+                return ((string)(this["Fabricante"]));
+            }
+            set {
+                this["Fabricante"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.DateTime dataFabricacao {
+            get {
+                return ((global::System.DateTime)(this["dataFabricacao"]));
+            }
+            set {
+                this["dataFabricacao"] = value;
             }
         }
     }
