@@ -103,6 +103,7 @@
             // 
             // btnVerificar
             // 
+            this.btnVerificar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnVerificar.Location = new System.Drawing.Point(39, 158);
             this.btnVerificar.Name = "btnVerificar";
             this.btnVerificar.Size = new System.Drawing.Size(129, 30);
@@ -122,6 +123,7 @@
             // 
             // btnLimpar
             // 
+            this.btnLimpar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnLimpar.Enabled = false;
             this.btnLimpar.Location = new System.Drawing.Point(57, 194);
             this.btnLimpar.Name = "btnLimpar";
